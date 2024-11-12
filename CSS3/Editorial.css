@@ -1,0 +1,61 @@
+body{
+    background: #fff2e4 ;
+    font-family: Helvetica;
+}
+h1{ 
+    color: #cd6155;    
+    font-size: 40px;  
+    font-family: Cambria;
+}  
+h3{
+    color:#1b2631   ;
+    font-family: Helvetica;
+    font-size: 50px;
+    text-align: left;
+} 
+.ul-a{
+    font-family: Helvetica;
+    text-decoration: none ;
+    color: black;
+}
+.ul-a:hover{
+    color: #e74c3c ;
+}
+.text{
+    color:#1c2833  ;
+    line-height: 24px;
+    font-family: sans-serif;
+    text-align: justify;
+    font-size: 18px;
+}
+.cult{
+    margin-left: 106px;
+    width: 650px;
+    height: 700px;
+}
+.poli{
+    margin-left: 106px;
+    width: 650px;
+    height: 580px;
+}
+.depo{
+    margin-left: 106px;
+    width: 650px;
+    height: 899px;
+}
+.acon{
+    margin-left: 106px;
+    width: 650px;
+    height: 840px;
+}
+.logo{
+    color: #212f3d;
+    width: 50px;
+    height: 50px;
+    margin-right: 30px;
+    transition: 0.5s; 
+    color:#212f3d;
+}
+.logo:hover{
+    transform: translateY(-10px);
+}
